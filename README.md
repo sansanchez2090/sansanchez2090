@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi , I'm Santiago Sánchez </b><a href="https://emoji.gg/emoji/41929-bat"><img src="https://cdn3.emoji.gg/emojis/41929-bat.gif" width="64px" height="64px" alt="Bat"></a></h1> 
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+profile😸;Back-End+Developer,;Systems+Engineering+Student,;Mobile-Desktop+Sofware+Developer,;Open+to+feedback+and+collaborate,;Take+a+look+and+enjoy+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+profile...;Back-End+Developer,;Systems+Engineering+Student,;Mobile-Desktop+Sofware+Developer,;Open+to+feedback+and+collaborate,;Take+a+look+and+enjoy+:)"></a>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m a software developer focused on building web and mobile applications <br>
+✔ I’m a software developer focused on building back-end systems and mobile applications <br>
 ✔ I work with React Native + Expo for mobile apps and Django for back-end development<br>
 ✔ I enjoy solving problems, learning new technologies, and improving existing solutions.<br>
 ✔ I'm looking to grow professionally by contributing to meaningful and challenging projects.<br>
