@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ I’m a software developer focused on building back-end systems and mobile applications <br>
-✔ I work with React Native + Expo for mobile apps and Django for back-end development<br>
+✔ I mainly work with React Native + Expo for mobile apps and Django for back-end development<br>
 ✔ I enjoy solving problems, learning new technologies, and improving existing solutions.<br>
 ✔ I'm looking to grow professionally by contributing to meaningful and challenging projects.<br>
 ✔ I'm constantly improving my skills to become a more versatile and impactful developer.<br>
